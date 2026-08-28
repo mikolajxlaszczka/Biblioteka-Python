@@ -1,0 +1,56 @@
+[
+    {
+        "title": "Harry Potter i Kamień Filozoficzny",
+        "author": "J.K. Rowling",
+        "category": "Fantasy",
+        "year": "1997",
+        "publisher": "Media Rodzina",
+        "pages": "328",
+        "is_borrowed": false
+    },
+    {
+        "title": "Władca Pierścieni: Drużyna Pierścienia",
+        "author": "J.R.R. Tolkien",
+        "category": "Fantasy",
+        "year": "1954",
+        "publisher": "Czytelnik",
+        "pages": "432",
+        "is_borrowed": true
+    },
+    {
+        "title": "Diuna",
+        "author": "Frank Herbert",
+        "category": "Sci-Fi",
+        "year": "1965",
+        "publisher": "Rebis",
+        "pages": "680",
+        "is_borrowed": false
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "category": "Klasyka",
+        "year": "1949",
+        "publisher": "Muza",
+        "pages": "328",
+        "is_borrowed": false
+    },
+    {
+        "title": "Wiedźmin: Ostatnie życzenie",
+        "author": "Andrzej Sapkowski",
+        "category": "Fantasy",
+        "year": "1993",
+        "publisher": "SuperNOWA",
+        "pages": "380",
+        "is_borrowed": false
+    },
+    {
+        "title": "Test",
+        "author": "JakisAutor",
+        "category": "Kategoria1",
+        "year": "1099",
+        "publisher": "Wydawca1",
+        "pages": "190",
+        "is_borrowed": false
+    }
+]
